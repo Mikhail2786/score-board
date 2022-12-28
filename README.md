@@ -1,4 +1,4 @@
-# co2b4462dbed52737e44f26f8
+# Score board app
 
 Quick start:
 
