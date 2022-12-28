@@ -8,7 +8,7 @@ $ npm start
 
 ````
 
-- Link to figma design: (https://www.figma.com/file/YC48MCx4frBFtYoz6rNJE6/Basketball-Scoreboard?node-id=107%3A158&t=CynOG3UXwjpLDPiz-0)
+- Link to design: [CLick here for Figma design](https://www.figma.com/file/YC48MCx4frBFtYoz6rNJE6/Basketball-Scoreboard?node-id=107%3A158&t=CynOG3UXwjpLDPiz-0)
 
 Head over to https://vitejs.dev/ to learn more about using vite
 ## About Scrimba
